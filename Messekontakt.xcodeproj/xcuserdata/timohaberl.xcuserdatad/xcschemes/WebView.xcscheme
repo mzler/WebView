@@ -17,7 +17,7 @@
                BlueprintIdentifier = "45E78B0E1E301BC0008883A5"
                BuildableName = "WebView.app"
                BlueprintName = "WebView"
-               ReferencedContainer = "container:WebView.xcodeproj">
+               ReferencedContainer = "container:Messekontakt.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "45E78B0E1E301BC0008883A5"
             BuildableName = "WebView.app"
             BlueprintName = "WebView"
-            ReferencedContainer = "container:WebView.xcodeproj">
+            ReferencedContainer = "container:Messekontakt.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "45E78B0E1E301BC0008883A5"
             BuildableName = "WebView.app"
             BlueprintName = "WebView"
-            ReferencedContainer = "container:WebView.xcodeproj">
+            ReferencedContainer = "container:Messekontakt.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "45E78B0E1E301BC0008883A5"
             BuildableName = "WebView.app"
             BlueprintName = "WebView"
-            ReferencedContainer = "container:WebView.xcodeproj">
+            ReferencedContainer = "container:Messekontakt.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
